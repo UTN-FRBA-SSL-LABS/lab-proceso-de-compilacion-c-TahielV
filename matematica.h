@@ -7,6 +7,8 @@
 #ifndef MATEMATICA_H   /* Guarda de inclusión: evita doble inclusión */
 #define MATEMATICA_H
 
+/* inicio ejercicio*/
+
 /* --- Macros constante --- */
 #define PI      3.14159265358979
 #define E       2.71828182845904
